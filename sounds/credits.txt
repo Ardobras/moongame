@@ -1,0 +1,3 @@
+coin.wav: https://www.freesound.org/people/DrMinky/sounds/166184/
+jump.mp3: https://www.freesound.org/people/fins/sounds/172205/
+death.mp3: https://www.freesound.org/people/noirenex/sounds/159408/
