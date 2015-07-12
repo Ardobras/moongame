@@ -293,7 +293,7 @@ function init() {
         var height = Math.round(Math.random() * 50 + 30);
 
         var obstacle = new createjs.Shape();
-        obstacle.graphics.beginFill('red').drawRect(0, 0, width, height);
+        obstacle.graphics.beginFill('grey').drawRect(0, 0, width, height);
         obstacle.x = stage.canvas.width - width;
         obstacle.y = stage.canvas.height - 150 - height;
         obstacle.width = width;
